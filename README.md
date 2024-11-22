@@ -63,7 +63,7 @@ To run the project, install the following dependencies:
 
 ---
 
-## How It Works
+##🎥  How It Works
 
 1. **Object Detection:**  
    YOLOv8 is used to detect cars in each frame of the video.
@@ -78,23 +78,14 @@ To run the project, install the following dependencies:
 
 ## Example Output
 
-- **Input Video:** A sample video of vehicles moving along a road.
-- **Output Video:** A video with detected cars highlighted and a real-time car count displayed.
+- **Input Video:** A sample video of vehicles moving along a road.![Car Counting Demo](car.gif) 
+- **Output Video:** A video with detected cars highlighted and a real-time car count displayed.![Car Counting Demo](demo.gif) 
 
 ---
 
-## Acknowledgments
+##🙏 Acknowledgments
 
-- **YOLOv8 Library:** Thanks to the [Ultralytics](https://github.com/ultralytics/ultralytics) team for developing the YOLOv8 library.
 - **SORT Algorithm:** The `sort.py` file is adapted from an external implementation to provide robust object tracking.
-
----
-
-## Future Enhancements
-
-- Add support for multiple vehicle types (e.g., buses, trucks).
-- Optimize the detection and tracking pipeline for better performance.
-- Implement a web-based dashboard for live monitoring.
 
 ---
 
