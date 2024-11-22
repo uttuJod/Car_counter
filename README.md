@@ -49,7 +49,7 @@ To run the project, install the following dependencies:
 
 1. Clone the repository or download the project files.
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/uttuJod/Car_counter>
    cd CarCounter
    ```
 
