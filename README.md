@@ -49,7 +49,7 @@ To run the project, install the following dependencies:
 
 1. Clone the repository or download the project files.
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/uttuJod/Car_counter>
    cd CarCounter
    ```
 
@@ -63,7 +63,7 @@ To run the project, install the following dependencies:
 
 ---
 
-##🎥  How It Works
+## 🎥  How It Works
 
 1. **Object Detection:**  
    YOLOv8 is used to detect cars in each frame of the video.
@@ -83,10 +83,8 @@ To run the project, install the following dependencies:
 
 ---
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 - **SORT Algorithm:** The `sort.py` file is adapted from an external implementation to provide robust object tracking.
 
----
 
-Let me know if you'd like to modify this further!
